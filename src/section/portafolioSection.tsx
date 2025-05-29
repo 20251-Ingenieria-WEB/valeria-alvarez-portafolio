@@ -4,18 +4,19 @@ const proyectos = [
   {
     image: "/img/MovieTime.png",
     title: "Movie Time",
-    shortDescription: "Sistema con las peliculas actuales del momento",
+    shortDescription: "Sistema de recomendacion de peliculas",
     longDescription:
       "Este proyecto tuvo como objetivo crear una página de películas como práctica de desarrollo web, la cual consistia en mostrar las peliculas que mas se adecuen a tus preferencias; se aplicaron técnicas avanzadas de HTML, CSS, JavaScript y React, combinadas con Bootstrap, para diseñar una plataforma funcional y estéticamente atractiva",
-    link: "https://cotizador-servicios-transporte-cootraespeciales.vercel.app/",
+    link: "https://timetoenjoy.vercel.app/",
   },
   {
     image: "/img/logo-cootraespeciales.svg",
     title: "Cootraespeciales | Cotizador de Viajes",
-    shortDescription: "Sistema de cotizador de viajes",
+    shortDescription: "Pagina para cotizar viajes de trasporte terrestre en Medellin",
     longDescription:
       "Sistema web de cotización de transporte, desarrollado en colaboración con la empresa colombiana de transporte COOTRAESPECIALES. Diseñado con el objetivo de optimizar y automatizar el proceso de estimación de costos de transporte, mejorando la eficiencia y la precisión de los cálculos.",
     link: "https://cotizador-servicios-transporte-cootraespeciales.vercel.app/",
+    
   },
 ];
 
