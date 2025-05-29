@@ -35,7 +35,7 @@ const conocimientos = [
     icon: "/icons/Scrum.png",
     title: "Scrum",
     description:
-      "Marco ágil para la gestión y desarrollo de proyectos que promueve la entrega incremental de valor a través de iteraciones cortas (sprints), fomentando la colaboración continua entre equipos multidisciplinarios y la adaptación constante a los cambios mediante reuniones periódicas y revisiones de progreso.",
+      "Marco ágil para la gestión y desarrollo de proyectos que promueve la entrega incremental de valor a través de iteraciones cortas (sprints), fomentando la colaboración continua entre equipos multidisciplinarios y la adaptación constante a los cambios mediante reuniones periódicas.",
   },
   
 ];
